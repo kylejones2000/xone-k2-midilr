@@ -22,6 +22,8 @@ SATURATION
 Red -> Green
 * 2nd row pots *
 Hue Aqua -> Magenta
+* 3rd row pots *
+Crop Angle
 
 * Sliders *
 Textures, Clarity, Dehaze
