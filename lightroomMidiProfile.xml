@@ -74,4 +74,8 @@
   <setting channel="14" note="118" command_string="ResetLuminanceAdjustmentPurple"/>
   <setting channel="14" controller="55" command_string="LuminanceAdjustmentMagenta"/>
   <setting channel="14" note="119" command_string="ResetLuminanceAdjustmentMagenta"/>
+  <setting channel="14" controller="60" command_string="Unassigned"/>
+  <setting channel="14" controller="56" command_string="Unassigned"/>
+  <setting channel="14" controller="34" command_string="straightenAngle"/>
+  <setting channel="14" note="76" command_string="ResetstraightenAngle"/>
 </settings>
